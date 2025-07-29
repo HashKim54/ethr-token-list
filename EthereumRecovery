@@ -1,0 +1,21 @@
+{
+  "name": "Ethereum Recovery Token List",
+  "logoURI": "https://raw.githubusercontent.com/OpenHunterAI/ethr-assets/main/logo.png",
+  "keywords": ["ethereum", "recovery", "ETHR"],
+  "timestamp": "2025-07-29T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xC700e80556fa35EA368C07f8298C41AcA3211E9F",
+      "name": "Ethereum Recovery",
+      "symbol": "ETHR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/OpenHunterAI/ethr-assets/main/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
